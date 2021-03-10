@@ -1,4 +1,3 @@
 # Presentation
-Presentation
-Updated The presentation file and documentation file
+Updated files: Presentation and documentation.
 Please take note that the Documentation file is updated regularly based on feedback
